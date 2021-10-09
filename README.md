@@ -1,0 +1,1 @@
+# picnic-elasticsearch-test
